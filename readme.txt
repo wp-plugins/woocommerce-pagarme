@@ -2,8 +2,8 @@
 Contributors: pagarme, claudiosanches
 Tags: woocommerce, pagarme, payment
 Requires at least: 3.5
-Tested up to: 3.9.1
-Stable tag: 1.0.0
+Tested up to: 4.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -112,15 +112,23 @@ Entre em contato [clicando aqui](http://wordpress.org/support/plugin/woocommerce
 
 == Changelog ==
 
+= 1.1.0 - 07/09/2014 =
+
+* Adicionado suporte para a API de parcelas do Pagar.me.
+* Adicionada opção de taxa de juros para as parcelas.
+* Adicionado suporte para o WooCommerce 2.2.
+
 = 1.0.0 =
 
 * Versão incial do plugin.
 
 == Upgrade Notice ==
 
-= 1.0.0 =
+= 1.1.0 =
 
-* Versão incial do plugin.
+* Adicionado suporte para a API de parcelas do Pagar.me.
+* Adicionada opção de taxa de juros para as parcelas.
+* Adicionado suporte para o WooCommerce 2.2.
 
 == License ==
 
